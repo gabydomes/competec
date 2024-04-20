@@ -7,7 +7,7 @@
 public class Exercicio1 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-char: nomeCompleto = MariaGabrielaDomingosGomesDaSilva;
+char: nomeCompleto = "MariaGabrielaDomingosGomesDaSilva";
         int: idade = 16;
         boolean: cafeDaManha = sim;
 
