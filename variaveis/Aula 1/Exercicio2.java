@@ -4,7 +4,8 @@
 public class Exercicio2 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
+boolean ehMentira = gabriela == melissa;
+        boolean ehVerdade = 21 <= 16;
 
     }
 }
